@@ -8,5 +8,7 @@ This is my first hello page in my new aesthetic: PINK. Why pink? Because it's my
 ## 🛠 Tech
 HTML • CSS 
 
-## 🚀 Quick start
+## Preview
+Here's what it looks like
+(![Home Page](<assets/img/homepage image.png>))
 
