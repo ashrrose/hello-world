@@ -10,5 +10,5 @@ HTML • CSS
 
 ## Preview
 Here's what it looks like
-(![Home Page](<assets/img/homepage image.png>))
+![Home Page](<assets/img/homepage image.png>)
 
